@@ -58,6 +58,7 @@ section .row {
   top: 0;
   bottom: 0;
   left: 0;
+  z-index:-2;
 }
 .lines::after {
   position: absolute;
@@ -68,6 +69,7 @@ section .row {
   top: 0;
   bottom: 0;
   left: 505px;
+  z-index:-2;
 }
 
 /*------------------------------------------------------
